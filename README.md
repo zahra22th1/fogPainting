@@ -1,4 +1,4 @@
-<img width="1500" height="659" alt="Foggy Glass Drawing Interface-100kb (1)" src="https://github.com/user-attachments/assets/04a7de30-619f-4d38-9b29-a505da0d4630" />
+<img width="1500" height="364" alt="Foggy Glass Drawing Interface-100kb (1)" src="https://github.com/user-attachments/assets/1516723f-9c28-46d3-9687-707bca9671b7" />
 
 
 # Foggy Glass 💧
