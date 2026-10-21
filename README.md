@@ -46,6 +46,10 @@ py -3.12 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 ```
 
+``` or cmd
+.venv\Scripts\activate.bat
+```
+
 ### 4. Install dependencies
 
 ```bash
