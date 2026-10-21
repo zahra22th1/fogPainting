@@ -1,4 +1,6 @@
-# Foggy Glass 🪟💧
+<img width="1500" height="1000" alt="Foggy Glass Drawing Interface-100kb" src="https://github.com/user-attachments/assets/d0fc4b16-0f8f-47b4-aa04-706703a826e2" />
+
+# Foggy Glass 💧
 
 A virtual foggy glass experience built with Python, OpenCV, and MediaPipe. Use your hand gestures to wipe away fog, reveal the webcam image, and restore the fog like drawing on a misty window.
 
