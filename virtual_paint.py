@@ -198,7 +198,12 @@ try:
         if key == ord("q"):
             break
 
-        elif key == ord("c"):
+        if cv2.getWindowProperty(
+            "Foggy Glass", cv2.WND_PROP_VISIBLE
+        ) == 0:
+            break
+
+        if key == ord("c"):
             fog_mask[:] = 255
             prev_x, prev_y = None, None
 

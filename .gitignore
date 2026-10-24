@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .vscode/
+dist/
+build/
+virtual_paint.spec
+myico.ico
